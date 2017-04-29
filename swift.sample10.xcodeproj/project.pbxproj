@@ -13,6 +13,7 @@
 		849F38771EB4D841009F39BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849F38761EB4D841009F39BA /* Assets.xcassets */; };
 		849F387A1EB4D841009F39BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 849F38781EB4D841009F39BA /* LaunchScreen.storyboard */; };
 		849F38851EB4D841009F39BA /* swift_sample10Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849F38841EB4D841009F39BA /* swift_sample10Tests.swift */; };
+		849F38901EB4D875009F39BA /* sample.txt in Resources */ = {isa = PBXBuildFile; fileRef = 849F388F1EB4D875009F39BA /* sample.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		849F38801EB4D841009F39BA /* swift.sample10Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swift.sample10Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		849F38841EB4D841009F39BA /* swift_sample10Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_sample10Tests.swift; sourceTree = "<group>"; };
 		849F38861EB4D841009F39BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		849F388F1EB4D875009F39BA /* sample.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sample.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				849F386E1EB4D841009F39BA /* swift.sample10 */,
 				849F38831EB4D841009F39BA /* swift.sample10Tests */,
 				849F386D1EB4D841009F39BA /* Products */,
+				849F388F1EB4D875009F39BA /* sample.txt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -183,6 +186,7 @@
 			files = (
 				849F387A1EB4D841009F39BA /* LaunchScreen.storyboard in Resources */,
 				849F38771EB4D841009F39BA /* Assets.xcassets in Resources */,
+				849F38901EB4D875009F39BA /* sample.txt in Resources */,
 				849F38751EB4D841009F39BA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
